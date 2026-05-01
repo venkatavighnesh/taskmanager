@@ -1,4 +1,4 @@
-# 🚀 TaskFlow: Premium Team Task Manager
+# TaskFlow: Premium Team Task Manager
 
 **Live Demo:** [https://energetic-enthusiasm-production-a661.up.railway.app/](https://energetic-enthusiasm-production-a661.up.railway.app/)
 
