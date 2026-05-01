@@ -2,7 +2,7 @@
 
 TaskFlow is a high-performance, full-stack team management application designed with a premium, light-themed aesthetic. It enables teams to organize projects, track tasks with precision, and maintain security through robust Role-Based Access Control (RBAC).
 
-![TaskFlow Dashboard](https://images.unsplash.com/photo-1540350394557-8d14678e7f91?auto=format&fit=crop&q=80&w=2000)
+
 
 ## ✨ Key Features
 
@@ -67,11 +67,4 @@ TaskFlow is optimized for **Railway** deployment.
 2. **Environment Variables**: Add `DATABASE_URL` and `JWT_SECRET` to the Railway project settings.
 3. **Build**: Railway will automatically detect the `package.json` and deploy both services.
 
----
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Built with ❤️ by **Antigravity**
